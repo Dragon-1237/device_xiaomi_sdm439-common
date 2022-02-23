@@ -3,3 +3,5 @@ debug.performance.tuning=1
 
 # Fwk detect
 ro.vendor.qti.va_aosp.support=1
+
+ro.spark.maintainer=Anant_Goel
